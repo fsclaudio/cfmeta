@@ -26,6 +26,7 @@ function SalesCard() {
     return (
         <div className="dsmeta-card">
             <h2 className="dsmeta-sales-title">Vendas</h2>
+            <h2 className="dsmeta-t-title">Vem fazer o seu T</h2>
             <div>
                 <div className="dsmeta-form-control-container">
                     <DatePicker
